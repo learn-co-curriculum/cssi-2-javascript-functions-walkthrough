@@ -1,8 +1,4 @@
----
-tags: cssi, javascript
-level: 1
-languages: javascript
----
+
 #Javascript Functions Walkthrough
 After the lesson, you'll be able to understand:
 + What is a function
