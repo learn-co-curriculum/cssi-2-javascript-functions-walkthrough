@@ -129,4 +129,4 @@ We can break down the creation of functions into four things that every function
 
 Functions are the building block of any developer. They let you create little machines that you can use and re-use from other parts of your code. This can make life a lot easier and save a ton of typing!
 
-<a href='https://learn.co/lessons/cssi-2-javascript-functions-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-2-javascript-functions-walkthrough' title='Javascript Functions Walkthrough'>Javascript Functions Walkthrough</a> on Learn.co and start learning to code for free.</p>
